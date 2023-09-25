@@ -1,0 +1,12 @@
+.delta{
+    display: flex;
+    justify-content: center;
+}
+
+.delta li{
+    list-style-type: none;
+    padding: 5px;
+    border: 1px solid black;
+    margin: 5px;
+}
+
